@@ -1,5 +1,5 @@
 - 👋 Hi, I’m yabets tesfaye
-- 👀 I’m interested in web development 
+- 👀 I’m interested in webdev and ai
 - 🌱 I’m currently learning full stack development
 - 
 - 📫 How to reach me yabetstes@gmail.com 
